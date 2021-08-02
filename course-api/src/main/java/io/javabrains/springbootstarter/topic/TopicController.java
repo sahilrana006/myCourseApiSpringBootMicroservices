@@ -14,7 +14,6 @@ import io.swagger.annotations.ApiParam;
 
 @RestController
 @RequestMapping("/topics")
-@ApiOperation(value="Sahil Topic")
 public class TopicController {
 
 	
